@@ -1,1 +1,1 @@
-# Design-Principles-Exercises
+# Ejercicio sobre los principios KISS, DRY, YAGNI y SOLID
