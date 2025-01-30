@@ -1,0 +1,14 @@
+C:\Users\Anddy Jara\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\C#\DRY_Principle\DRY_Principle\bin\Debug\net8.0\DRY_Principle.exe
+C:\Users\Anddy Jara\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\C#\DRY_Principle\DRY_Principle\bin\Debug\net8.0\DRY_Principle.deps.json
+C:\Users\Anddy Jara\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\C#\DRY_Principle\DRY_Principle\bin\Debug\net8.0\DRY_Principle.runtimeconfig.json
+C:\Users\Anddy Jara\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\C#\DRY_Principle\DRY_Principle\bin\Debug\net8.0\DRY_Principle.dll
+C:\Users\Anddy Jara\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\C#\DRY_Principle\DRY_Principle\bin\Debug\net8.0\DRY_Principle.pdb
+C:\Users\Anddy Jara\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\C#\DRY_Principle\DRY_Principle\obj\Debug\net8.0\DRY_Principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anddy Jara\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\C#\DRY_Principle\DRY_Principle\obj\Debug\net8.0\DRY_Principle.AssemblyInfoInputs.cache
+C:\Users\Anddy Jara\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\C#\DRY_Principle\DRY_Principle\obj\Debug\net8.0\DRY_Principle.AssemblyInfo.cs
+C:\Users\Anddy Jara\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\C#\DRY_Principle\DRY_Principle\obj\Debug\net8.0\DRY_Principle.csproj.CoreCompileInputs.cache
+C:\Users\Anddy Jara\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\C#\DRY_Principle\DRY_Principle\obj\Debug\net8.0\DRY_Principle.dll
+C:\Users\Anddy Jara\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\C#\DRY_Principle\DRY_Principle\obj\Debug\net8.0\refint\DRY_Principle.dll
+C:\Users\Anddy Jara\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\C#\DRY_Principle\DRY_Principle\obj\Debug\net8.0\DRY_Principle.pdb
+C:\Users\Anddy Jara\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\C#\DRY_Principle\DRY_Principle\obj\Debug\net8.0\DRY_Principle.genruntimeconfig.cache
+C:\Users\Anddy Jara\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\C#\DRY_Principle\DRY_Principle\obj\Debug\net8.0\ref\DRY_Principle.dll
